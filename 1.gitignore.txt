@@ -2,3 +2,6 @@
 !lib.a
 /TODO
 doc/*.txt
+1
+2
+3
